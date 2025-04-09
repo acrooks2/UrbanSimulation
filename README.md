@@ -6,9 +6,10 @@ This repository contains links and example models used in the Book Chapter perta
 
 # ChatGPT 
 
-Example of Using ChatGPT 4o with Canvas to create an agent-based model: <https://youtu.be/GBeyOhBQWAU> 
+Example of Using ChatGPT 4o with Canvas to create an agent-based model: <https://youtu.be/GBeyOhBQWAU>.  
 
-![Watch the video](https://i9.ytimg.com/vi_webp/egiSIXDUhxI/mq2.webp?sqp=CNCc1r8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLAH8DSYyTHMAOdgopltHw7xA-lD4Q)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GBeyOhBQWAU/0.jpg)](https://www.youtube.com/watch?v=GBeyOhBQWAU)
+
 
 # Example Modeling Platforms 
 MESA
