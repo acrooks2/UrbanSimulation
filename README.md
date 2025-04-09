@@ -49,8 +49,8 @@ A sample (and definitely not an exhaustive list) of agentbased modeling applicat
 * Using a agent-based model to explore capacity and demand in theme parks (Bonabeau, 2000).
 * Traffic and pedestrian modeling (Helbing and Balietti, 2011).
 * Disease dynamics (e.g. Eubank et al., 2004).
-* Agent-based modeling has also been used for wild fire training, incident command and community outreach (Guerin and Carrera, 2010). For example SimTable was used in the  2016 Sand Fire in California. 
-* InSTREAM: Explores how river salmon populations react to changes (Railsback and Harvey, 2002).
+* Agent-based modeling has also been used for wild fire training, incident command and community outreach (Guerin and Carrera, 2010). For example [SimTable](https://www.simtable.com/) was used in the  2016 Sand Fire in California. 
+* [InSTREAM](https://www.humboldt.edu/ecological-modeling/instream-and-insalmo/instream-and-insalmo-overview): Explores how river salmon populations react to changes (Railsback and Harvey, 2002).
 
 ## References
 **Bonabeau, E.** (2000), 'Business Applications of Social Agent-Based Simulation', Advances in Complex Systems, 3(1-4): 451-461.
@@ -86,3 +86,15 @@ To compare differnet modeling approaches to the same issue, in subfolder [SIR_Mo
 Each explores the spread of a disease using a a Susceptible-Infected-Recovered (SIR) epidemic model. For more details about SIR models see: <https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology>
 
 
+# Example of a Urban Growth Model
+
+To see an example of an CA Urban Growth model go to subfolder [UrbanGrowth](/UrbanGrowth/)
+
+<img src="UrbanGrowth/UrbanGrowthGUI.png" alt="GUI of Urban Growth Example" />
+
+# Example of a Pedestrain Model
+
+To see an example of an Agent-based model desinged to simuatiae people exiting a building go to subfolder [Pedestrian_Model](/Pedestrian_Model/)
+
+
+<img src="Pedestrian_Model/Pedestrians_Exiting_Building_GUI.png" alt="GUI of Pedestrian Example" />
