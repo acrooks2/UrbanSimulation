@@ -92,7 +92,7 @@ To see an example of an CA Urban Growth model go to subfolder [UrbanGrowth](/Urb
 
 # Example of a Pedestrain Model
 
-To see an example of an Agent-based model desinged to simuatiae people exiting a building go to subfolder [Pedestrian_Model](/Pedestrian_Model/)
+To see an example of an Agent-based model desinged to simuatiae people exiting a building go to subfolder [PedestrianModel](/PedestrianModel/)
 
 
 <img src="Pedestrian_Model/Pedestrians_Exiting_Building_GUI.png" alt="GUI of Pedestrian Example" />
