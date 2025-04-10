@@ -36,9 +36,7 @@ Example of Using ChatGPT 4o with Canvas to create an agent-based model: <https:/
 
 # Examples of real world Agent-based Modeling Applications
 
-There are two specific application domains where agent-based modeling has taken off. The first being pedestrian simulation for example, Legion,  Steps and EXODUS simulation platforms. The second is the area of traffic modeling for example, there are several microsimulation/agent-based model platforms such as PTV Visum, TransModeler and Paramics. Based on these companies websites they have clients in industry, government and academia.
-
-A sample (and definitely not an exhaustive list) of agentbased modeling applications and references are provided below for interested readers:
+A sample (and definitely not an exhaustive list) of agent-based modeling applications and references are provided below for interested readers:
 
 * Southwest Airlines used an agent-based model to improve how it handled cargo (Seibel and Thomas, 2000).
 * Eli Lilly used an agent-based model for drug development (Bonabeau, 2003a).
@@ -61,17 +59,17 @@ A sample (and definitely not an exhaustive list) of agentbased modeling applicat
 
 **Darley, V. and Outkin, A.V.** (2007), NASDAQ Market Simulation: Insights on a Major Market from the Science of Complex Adaptive Systems, World Scientific Publishing, River Edge, NJ.
 
-**Eubank, S., Guclu, H., Kumar, A.V.S., Marathe, M.V., Srinivasan, A., Toroczkai, Z. and Wang, N. **(2004), 'Modelling Disease Outbreaks in Realistic Urban Social Networks', Nature, 429: 180-184.
+**Eubank, S., Guclu, H., Kumar, A.V.S., Marathe, M.V., Srinivasan, A., Toroczkai, Z. and Wang, N.** (2004), 'Modelling Disease Outbreaks in Realistic Urban Social Networks', Nature, 429: 180-184.
 
 **Guerin, S. and Carrera, F.** (2010), 'Sand on Fire: An Interactive Tangible 3D Platform for the Modeling and Management of Wildfires.' WIT Transactions on Ecology and the Environment, 137: 57-68.
 
 **Helbing, D. and Balietti, S.** (2011), How to do Agent-based Simulations in the Future: From Modeling Social Mechanisms to Emergent Phenomena and Interactive Systems Design, Santa Fe Institute, Working Paper 11-06-024, Santa Fe, NM.
 
-**North, M.J., Macal, C.M., Aubin, J.S., Thimmapuram, P., Bragen, M., Hahn, J., J., K., Brigham, N., Lacy, M.E. and Hampton, D. **(2010), 'Multiscale Agent-based Consumer Market Modeling', Complexity, 15(5): 37-47.
+**North, M.J., Macal, C.M., Aubin, J.S., Thimmapuram, P., Bragen, M., Hahn, J., J., K., Brigham, N., Lacy, M.E. and Hampton, D.** (2010), 'Multiscale Agent-based Consumer Market Modeling', Complexity, 15(5): 37-47.
 
 **Railsback, S.F. and Harvey, B.C.** (2002), 'Analysis of Habitat Selection Rules using an Individual-based Model', Ecology, 83(7): 1817-1830.
 
-**Seibel, F. and Thomas, C. **(2000), 'Manifest Destiny: Adaptive Cargo Routing at Southwest Airlines', Perspectives on Business Innovation, 4: 27-33.
+**Seibel, F. and Thomas, C.** (2000), 'Manifest Destiny: Adaptive Cargo Routing at Southwest Airlines', Perspectives on Business Innovation, 4: 27-33.
 
 
 # SIR Models
