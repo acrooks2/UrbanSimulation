@@ -95,4 +95,4 @@ To see an example of an CA Urban Growth model go to subfolder [UrbanGrowth](/Urb
 To see an example of an Agent-based model desinged to simuatiae people exiting a building go to subfolder [PedestrianModel](/PedestrianModel/)
 
 
-<img src="Pedestrian_Model/Pedestrians_Exiting_Building_GUI.png" alt="GUI of Pedestrian Example" />
+<img src="/Users/atcrooks/Documents/GitHub/UrbanSimulation/PedestrianModel/Pedestrians_Exiting_Building_GUI.png" alt="GUI of Urban Growth Example" />
