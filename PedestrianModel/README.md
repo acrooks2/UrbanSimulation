@@ -8,7 +8,7 @@ This model shows how one can use agent-based modleing to simuate pedestrians exi
 
 Below is the graphical user interface of the model: 
 
-<img src="Pedestrians_Exiting_Building_GUI.png" alt="GUI of Pedestrian Example" />
+<img src="PedestriansExiting.png" alt="GUI of Pedestrian Example" />
 
 Click on the image below to see a YouTube movie of the model:
 
